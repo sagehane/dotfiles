@@ -8,5 +8,11 @@ call plug#begin('~/.config/nvim/plugged')
 " Asynchronous Lint Engine
 Plug 'dense-analysis/ale'
 
+" Dark powered asynchronous completion framework
+Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
+
+" File detection and syntax highlighting for the zig programming language.
+Plug 'ziglang/zig.vim'
+
 " Initialize plugin system
 call plug#end()

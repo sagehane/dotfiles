@@ -15,3 +15,7 @@ set ignorecase
 set smartcase
 set undofile
 set background=light
+
+" Disable changing cursor to line
+set guicursor=
+autocmd OptionSet guicursor noautocmd set guicursor=
