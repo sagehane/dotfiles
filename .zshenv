@@ -4,7 +4,6 @@ PROMPT='[%B%F{magenta}%n%F{magenta}@%F{magenta}%m%f%b %B%F{cyan}%~%f%b]$ '
 source "$HOME/.cargo/env"
 
 ## Exports
-export PATH="$PATH:$HOME/.local/bin" # Add ~/.local/bin to PATH
 export EDITOR=nvim
 export BROWSER=firefox
 
