@@ -1,6 +1,10 @@
 # SPDX-License-Identifier: ISC
 # Copyright (c) 2018-2020 Dawid Potocki
 
+# Screenlock
+super + Escape
+	~/.script/i3lock.sh
+
 # Keybindings for Scripts
 super + shift + {f,m,e}
 	~/.script/{firefox,mpv,element}.sh
