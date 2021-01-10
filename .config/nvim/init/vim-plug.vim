@@ -5,6 +5,9 @@ call plug#begin('~/.config/nvim/plugged')
 
 " Make sure you use single quotes
 
+" A solid language pack for Vim.
+Plug 'sheerun/vim-polyglot'
+
 " Asynchronous Lint Engine
 Plug 'dense-analysis/ale'
 

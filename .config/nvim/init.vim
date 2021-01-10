@@ -1,5 +1,4 @@
 ru init/vim-plug.vim
-ru init/file-detect.vim
 ru init/basic.vim
 ru init/keybinding.vim
 ru init/color.vim
