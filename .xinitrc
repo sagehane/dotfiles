@@ -15,7 +15,6 @@ sxhkd & # For Keybindings
 xrdb ~/.Xresources
 dwmblocks & # Status Bar
 dunst &
-caffeine &
 fcitx -d & # Input Method Selector
 
 dwm
