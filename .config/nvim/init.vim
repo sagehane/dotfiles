@@ -3,5 +3,6 @@ ru init/basic.vim
 ru init/keybinding.vim
 ru init/color.vim
 
+ru init/fzf.vim
 ru init/ale.vim
 ru init/deoplete.vim

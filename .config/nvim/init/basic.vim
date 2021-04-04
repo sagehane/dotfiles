@@ -11,7 +11,6 @@ set clipboard=unnamedplus
 set inccommand=nosplit
 set tabstop=4
 set shiftwidth=4
-set ignorecase
 set smartcase
 set undofile
 set background=light

@@ -8,6 +8,10 @@ call plug#begin('~/.config/nvim/plugged')
 " A solid language pack for Vim.
 Plug 'sheerun/vim-polyglot'
 
+" A command-line fuzzy finder
+Plug 'junegunn/fzf'
+Plug 'junegunn/fzf.vim'
+
 " Asynchronous Lint Engine
 Plug 'dense-analysis/ale'
 
